@@ -20,11 +20,11 @@ When a desired action has consequences, decide the appropriate **Path** and roll
 
 ### Special: Mystic Knights
 
-Mystic Knights, or those who weild similar power, still use **Scum** and **Villainy** rolls, but get an additional die if specifically calling upon their power. When their **Power** is used it aftects their balance one way or another. Success in a **Path** moves the weilder's *number* in favor of that **Path**. Failure moves the weilder's *number* in favor of the other. The *number* remains until it is moved again by action, the end of the session, or has time to meditate and realign.
+Mystic Knights, or those who weild similar power, still use **Scum** and **Villainy** rolls, but get an additional die if specifically calling upon their power. When their **Power** is used it aftects their balance one way or another. Success in a **Path** moves the weilder's *number* in favor of that **Path**. Failure moves the weilder's *number* in favor of the other. The *number* remains until it is moved again by action, the end of the session, or the Knight has time to meditate and realign.
 
-#### Example
-
-A Knight is trapped behind cover. Troopers are firing on the Knight's position, but when the time is right the Knight comes out of cover and weilds their **Power** to pull the blasters from their hands. The Knight's *number* is 3 (three) and rolls their **Scum** successfully. Their *number* now moves to 4 (four), making further **Scum** rolls easier, but making **Villainy** rolls more difficult.
+> **Example**
+> 
+> A Knight is trapped behind cover. Troopers are firing on the Knight's position, but when the time is right the Knight comes out of cover and weilds their **Power** to pull the blasters from their hands. The Knight's *number* is 3 (three) and rolls their **Scum** successfully. Their *number* now moves to 4 (four), making further **Scum** rolls easier, but making **Villainy** rolls more difficult.
 
 ## Advenure Hooks
 
